@@ -66,6 +66,7 @@ function init() {
 	resize()
 	animate()
 }
+
 function instances() {
 	const flowerExample = new Model({
 		name: 'flower',
